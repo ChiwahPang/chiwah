@@ -2,12 +2,12 @@
 ## Zihua Peng
 
 # Introduction
-* Background: PUBG is one of the most popular game in the world. Battle Royale-style video games have taken the world by storm. 100 players are dropped onto an island empty-handed and must explore, scavenge, and eliminate other players until only one is left standing, all while the play zone continues to shrink.
+* Background: 2048 is popular and easy-to-manipulate in the world. Through Python, the game can be designed.
 
-* Proposal: The python project is aim to predict if the player of PUBG would win the game after comparing the data of the player with the model of the training data.
+* Proposal: The python project is aim to move the numbers to earn 2048 points for the win.
 
 # TODO
-* Download the PUBG data from kaggle. https://www.kaggle.com/c/pubg-finish-placement-prediction
-* Build a model for the data to analyse.
+* Emphasis on the logic of the whole 2048 game.
+* Try to code differently and oringally.
 * Design the program of the project.
 * Run the program and make evualation.
